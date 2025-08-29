@@ -107,8 +107,7 @@ Option 2: Local Jupyter Notebook
 
 Clone the repository:
 
-git clone https://github.com/your-username/Air-Quality-Prediction.git
-
+git clone https://github.com/PranithaBokketi/Air-Quality-prediction-using-machinelearning
 
 Install requirements:
 
